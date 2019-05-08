@@ -1,9 +1,6 @@
 package com.valik;
 
-
-import java.util.ArrayList;
-
-import com.valik.positions.Director;
+Hello word
 
 public class Employee {
 
